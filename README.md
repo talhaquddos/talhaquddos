@@ -2,7 +2,7 @@
 - 👀 I’m interested in Remote Sensing, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on projects related to transportation, remote sensing, optimization and GIS.
-- 📫 How to reach me talhaquddos@gmail.com
+- 📫 Reach me out at talhaquddos@gmail.com
 - 😄 Pronouns: He/Him
   
 
